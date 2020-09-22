@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/YuriiRysyn/Todo-App-on-React/static/css/main.d183c019.chunk.css",
-    "main.js": "/YuriiRysyn/Todo-App-on-React/static/js/main.862ef802.chunk.js",
-    "main.js.map": "/YuriiRysyn/Todo-App-on-React/static/js/main.862ef802.chunk.js.map",
-    "runtime-main.js": "/YuriiRysyn/Todo-App-on-React/static/js/runtime-main.fed7985d.js",
-    "runtime-main.js.map": "/YuriiRysyn/Todo-App-on-React/static/js/runtime-main.fed7985d.js.map",
-    "static/js/2.d5c9a1d9.chunk.js": "/YuriiRysyn/Todo-App-on-React/static/js/2.d5c9a1d9.chunk.js",
-    "static/js/2.d5c9a1d9.chunk.js.map": "/YuriiRysyn/Todo-App-on-React/static/js/2.d5c9a1d9.chunk.js.map",
-    "index.html": "/YuriiRysyn/Todo-App-on-React/index.html",
-    "precache-manifest.9256c43e02ae192651db984a03f1daac.js": "/YuriiRysyn/Todo-App-on-React/precache-manifest.9256c43e02ae192651db984a03f1daac.js",
-    "service-worker.js": "/YuriiRysyn/Todo-App-on-React/service-worker.js",
-    "static/css/main.d183c019.chunk.css.map": "/YuriiRysyn/Todo-App-on-React/static/css/main.d183c019.chunk.css.map",
-    "static/js/2.d5c9a1d9.chunk.js.LICENSE.txt": "/YuriiRysyn/Todo-App-on-React/static/js/2.d5c9a1d9.chunk.js.LICENSE.txt"
+    "main.css": "/Todo-App-on-React/static/css/main.d183c019.chunk.css",
+    "main.js": "/Todo-App-on-React/static/js/main.862ef802.chunk.js",
+    "main.js.map": "/Todo-App-on-React/static/js/main.862ef802.chunk.js.map",
+    "runtime-main.js": "/Todo-App-on-React/static/js/runtime-main.ea7a9f43.js",
+    "runtime-main.js.map": "/Todo-App-on-React/static/js/runtime-main.ea7a9f43.js.map",
+    "static/js/2.d5c9a1d9.chunk.js": "/Todo-App-on-React/static/js/2.d5c9a1d9.chunk.js",
+    "static/js/2.d5c9a1d9.chunk.js.map": "/Todo-App-on-React/static/js/2.d5c9a1d9.chunk.js.map",
+    "index.html": "/Todo-App-on-React/index.html",
+    "precache-manifest.dcfb6c12a027c987809602e60733e421.js": "/Todo-App-on-React/precache-manifest.dcfb6c12a027c987809602e60733e421.js",
+    "service-worker.js": "/Todo-App-on-React/service-worker.js",
+    "static/css/main.d183c019.chunk.css.map": "/Todo-App-on-React/static/css/main.d183c019.chunk.css.map",
+    "static/js/2.d5c9a1d9.chunk.js.LICENSE.txt": "/Todo-App-on-React/static/js/2.d5c9a1d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fed7985d.js",
+    "static/js/runtime-main.ea7a9f43.js",
     "static/js/2.d5c9a1d9.chunk.js",
     "static/css/main.d183c019.chunk.css",
     "static/js/main.862ef802.chunk.js"
